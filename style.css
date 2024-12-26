@@ -1,0 +1,62 @@
+*{
+    background-color: black;
+}
+
+
+.icon{
+    size: 100px;
+    float: left;
+    left: 0;
+}
+
+.navbar{  
+    width: 85%;
+    margin: auto;
+    padding: 50px, 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}    
+.navbar ul li a{
+    text-decoration-line: none;
+    color: white;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.col-1{
+    margin-top: 10%;
+    text-align: center;
+}
+.col-1 h1{
+    font-size: 60px;
+    color: white;
+    padding-bottom: 0%;
+}
+.col-1 p{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    margin-bottom: 0;
+}
+
+.col1 p a{
+    color:	#89cff0;
+}
+
+.skill img {
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.ps{
+    width: 60px;
+}
+
+.pp{
+    width: 60px;
+}
+
